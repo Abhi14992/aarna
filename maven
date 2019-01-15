@@ -1,6 +1,8 @@
 #java path
 /root ls -la
 .bash_profile
+#install java 
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-0.amzn2.x86_64
 PATH=$PATH:$JAVA_HOME:$HOME/bin
